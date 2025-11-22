@@ -1,3 +1,17 @@
+
+## **Team**
+
+* Shreyansh Pipaliya
+* Yugansh Thacker
+* Kirtan Ugreja
+* Nancy Vaghela
+
+---
+
+## **Video Demonstration**
+
+https://drive.google.com/drive/folders/1VAPvHP912_eqvQN9-JEEduzlyEuLZf5L?usp=sharing
+
 # **Inventory Management System — OdooxSPIT**
 
 A streamlined Inventory Management System integrating **Odoo ERP** with a **JavaScript frontend** for real-time stock monitoring, warehouse control, and automated reordering.
@@ -88,17 +102,3 @@ Update config with:
 4. All updates sync instantly with Odoo.
 
 ---
-
-## **Team**
-
-* Shreyansh Pipaliya
-* Yugansh Thacker
-* Kirtan Ugreja
-* Nancy Vaghela
-
----
-
-## **Video Demonstration**
-
-Add your link here.
-
