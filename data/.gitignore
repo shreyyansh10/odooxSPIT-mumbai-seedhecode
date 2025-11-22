@@ -1,0 +1,2 @@
+# Ignore server-side auth data file (contains sensitive information)
+auth.json
