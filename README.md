@@ -1,34 +1,104 @@
-# Inventory Management System - odooxSPIT
+# **Inventory Management System — OdooxSPIT**
 
-## Overview
-An Inventory Management System integrating Odoo ERP backend with a JavaScript frontend for real-time stock tracking, warehouse management, and automated reordering.
+A streamlined Inventory Management System integrating **Odoo ERP** with a **JavaScript frontend** for real-time stock monitoring, warehouse control, and automated reordering.
 
-## Features
-- Real-time inventory tracking across warehouses
-- Automated reorder alerts and purchase orders
-- Barcode and serial number tracking
-- Multi-warehouse management
-- Detailed inventory analytics
+---
 
-## Technology Stack
-- Frontend: JavaScript, HTML, CSS
-- Backend: Odoo ERP
-- Database: PostgreSQL
+## **Key Features**
 
-## Installation
-1. Clone the repo:git clone https://github.com/shreyyansh10/odooxSPIT-mumbai-seedhecode.git
+* Real-time stock tracking across warehouses
+* Automated reorder alerts and purchase order creation
+* Barcode & serial number scanning
+* Multi-warehouse stock transfer
+* Inventory analytics (valuation, low-stock, stock movement history)
+
+---
+
+## **Technology Stack**
+
+### **Frontend**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45"/>
+</p>
+
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+---
+
+### **Backend**
+* Odoo ERP
+* Odoo XML-RPC / JSON-RPC API
+* Python (Odoo server environment)
+
+---
+
+### **Database**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="45"/>
+</p>
+
+* PostgreSQL
+
+---
+
+### **Development Tools**
+
+* Node.js
+* npm
+* Git / GitHub
+
+---
+
+## **Installation**
+
+```bash
+# Clone repository
+git clone https://github.com/shreyyansh10/odooxSPIT-mumbai-seedhecode.git
 cd odooxSPIT-mumbai-seedhecode
-2. Install dependencies:npm install
-3. Configure Odoo connection in the config file.
-4. Start the app:npm start
-## Usage
-Access the application through a web browser and log in with your Odoo credentials to manage inventory efficiently.
 
-## Team
-- Shreyansh Pipaliya
-- Yugansh Thacker
-- Kirtan Ugreja
-- Nancy Vaghela
+# Install dependencies
+npm install
 
-##Video demonstration link.
+# Start the app
+npm start
+```
+
+### **Configure Odoo Connection**
+
+Update config with:
+
+* Odoo server URL
+* Database name
+* Username / password
+* API token (if applicable)
+
+---
+
+## **Usage**
+
+1. Open the web app in a browser.
+2. Sign in with Odoo credentials.
+3. Manage stock, transfers, purchase orders, barcode/serial tracking.
+4. All updates sync instantly with Odoo.
+
+---
+
+## **Team**
+
+* Shreyansh Pipaliya
+* Yugansh Thacker
+* Kirtan Ugreja
+* Nancy Vaghela
+
+---
+
+## **Video Demonstration**
+
+Add your link here.
 
